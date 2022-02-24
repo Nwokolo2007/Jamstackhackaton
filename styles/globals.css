@@ -14,3 +14,29 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.createFunds{
+  font-weight: 500!important;
+  color: #ffe484!important;
+ 
+}
+
+.createFund{
+  font-weight: 500!important;
+  color: #ffe484!important;
+  border-color: #ffe484 !important;
+}
+
+.marginTop{
+  margin-top:100px!important;
+  margin-bottom:  10px!important;
+}
+.widthBtn{
+  width:100%;
+}
+.marg{
+
+ 
+    float: right;
+    margin-left: 275px;
+}
